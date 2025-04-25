@@ -56,7 +56,7 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
 ## Getting Started
 
 ### Prerequisites:
-- Mobie & Desktop Device
+- Mobile & Desktop Device
 - Internet Connection
 - Camera Access
      
@@ -85,11 +85,12 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
 [Link for Machine Learning Documentation](#)
 
 ### Front-End Development Documentation
-[Link for Mobile Development Documentation](#
+[Link for FrontEnd Documentation](#
 )
 
 ### Back-End Documentation
 [Link for BackEnd Documentation](#)
+<br>
 [Link for Backend Machine Learning Documentation](#)
 
 ### REST API Documentation

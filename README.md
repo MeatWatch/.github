@@ -62,7 +62,7 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
      
 
 ---
-## Fish2eat App Features
+## MeatWatch App Features
 
 - **Deteksi Jenis Daging**: Mengidentifikasi berbagai jenis daging melalui analisis gambar dengan teknologi AI/ML.
 - **Informasi Nutrisi**: Menyediakan data nutrisi lengkap berdasarkan jenis daging yang terdeteksi untuk mendukung pola makan sehat.
@@ -70,7 +70,7 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
 - **Informasi daging**: Berisi informasi tentang daging.
 - **Tampilan Ramah Pengguna**:  Antarmuka yang mudah digunakan, cocok untuk semua kalangan.
 
-**Fish2Eat** is perfect for anyone who wants to explore the flavors of fish-based dishes, from home cooks to seafood enthusiasts. With this app, you can create delicious meals while maximizing the nutritional value of fish.
+
 
 ---
 

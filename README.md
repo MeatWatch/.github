@@ -1,5 +1,6 @@
 
-![WhatsApp Image 2025-05-04 at 22 01 58 (1)](https://github.com/user-attachments/assets/4e340827-8ac6-48c8-b2ae-38a4a3f9822f)
+<img src="https://github.com/user-attachments/assets/4e340827-8ac6-48c8-b2ae-38a4a3f9822f" alt="MeatWatch" width="400"/>
+
 # MeatWatch
 **Coding Camp 2025 Product Based Capstone Project**  
 **Team ID: CC25-CF130**

@@ -1,3 +1,5 @@
+
+![WhatsApp Image 2025-05-04 at 22 01 58 (1)](https://github.com/user-attachments/assets/4e340827-8ac6-48c8-b2ae-38a4a3f9822f)
 # MeatWatch
 **Coding Camp 2025 Product Based Capstone Project**  
 **Team ID: CC25-CF130**
@@ -82,16 +84,16 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
 ## Documentation
 
 ### Machine Learning Development Documentation
-[Link for Machine Learning Documentation](#)
+[Link for Machine Learning Documentation](https://github.com/MeatWatch/Meatwatch_model)
 
 ### Front-End Development Documentation
-[Link for FrontEnd Documentation](#
+[Link for FrontEnd Documentation](https://github.com/MeatWatch/Frontend-beef
 )
 
 ### Back-End Documentation
-[Link for BackEnd Documentation](#)
+[Link for BackEnd Documentation](https://github.com/MeatWatch/Backend-beef)
 <br>
-[Link for Backend Machine Learning Documentation](#)
+
 
 ### REST API Documentation
 [REST API Documentation](#)

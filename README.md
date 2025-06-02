@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/4e340827-8ac6-48c8-b2ae-38a4a3f9822f" alt="MeatWatch" width="400"/>
+<img src="https://github.com/user-attachments/assets/4e340827-8ac6-48c8-b2ae-38a4a3f9822f" alt="MeatWatch" width="200"/>
 
 # MeatWatch
 **Coding Camp 2025 Product Based Capstone Project**  

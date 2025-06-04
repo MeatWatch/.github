@@ -46,12 +46,12 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
   - Javascript
   - React JS
   - Express JS
-  - Firebase
   - MySql
   - Axios
   - Tailwind / Bootstrap
   - Vite
-  - Vercel
+  - Netlify
+  - Railway
 
 
 ---
@@ -78,7 +78,7 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
 ---
 
 ##  Demo
--
+https://drive.google.com/file/d/13-XNQ7AkuEB5vznewoouR9esJMoJxcyw/view?usp=sharing
 
 ---
 
@@ -100,7 +100,7 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
 [REST API Documentation](#)
 
 ---
-## Screen
+## Screen Desktop
 
 <img src="https://github.com/user-attachments/assets/a0851af4-aff7-470a-a974-ba199798a0ae" alt="Screenshot 1" width="300"/>
 <img src="https://github.com/user-attachments/assets/59ae5b20-fbb3-4da6-b508-838820333d71" alt="Screenshot 2" width="300"/>
@@ -115,6 +115,28 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
 <img src="https://github.com/user-attachments/assets/675a177e-6973-4550-a95d-772ab8a79f8c" alt="Screenshot 11" width="300"/>
 <img src="https://github.com/user-attachments/assets/fe9b4a58-1cd5-4c76-b34a-ad923aa089b4" alt="Screenshot 12" width="300"/>
 <img src="https://github.com/user-attachments/assets/f7de0bbb-3e88-4176-804d-26ab2b90330f" alt="Screenshot 13" width="300"/>
+
+---
+## Screen Mobile
+
+<img src="https://github.com/user-attachments/assets/533b24b5-f665-4da5-8466-27387936d4de" width="300"/>
+<img src="https://github.com/user-attachments/assets/c373759c-ecb1-4977-b9b4-89bdbaabd445" width="300"/>
+<img src="https://github.com/user-attachments/assets/b43e27be-5e25-4103-a381-c7d81cfbe30f" width="300"/>
+<img src="https://github.com/user-attachments/assets/ecd85e8f-25cb-4fe3-affb-7fc81b7adb20" width="300"/>
+<img src="https://github.com/user-attachments/assets/bbce13f8-8bdc-4b38-9ed7-1e5f6abd0270" width="300"/>
+<img src="https://github.com/user-attachments/assets/f3ac15c6-54c9-4a43-bcd7-29d9bef6dad0" width="300"/>
+<img src="https://github.com/user-attachments/assets/d5da9653-5977-4d0f-8bd4-9b1a9cfd9eec" width="300"/>
+<img src="https://github.com/user-attachments/assets/e98eb5e0-eb2c-4cd5-9853-9422b3e76c37" width="300"/>
+<img src="https://github.com/user-attachments/assets/88ffb793-e1c4-44a8-b7ae-452faa20c72a" width="300"/>
+<img src="https://github.com/user-attachments/assets/b0ad4c2a-f141-445b-ba0c-11af2b15beaf" width="300"/>
+<img src="https://github.com/user-attachments/assets/6a5df1e8-7ef2-4a28-97d6-466eb3586b51" width="300"/>
+
+---
+## Screen Reminder
+<img src="https://github.com/user-attachments/assets/74ae4417-1e38-4788-a3a4-bb5e4313cc9c" width="500"/>
+
+---
+
 
 
 

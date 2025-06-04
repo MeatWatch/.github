@@ -99,8 +99,7 @@ https://courageous-centaur-cbe411.netlify.app/
 <br>
 
 
-### REST API Documentation
-[REST API Documentation](#)
+
 
 ---
 ## Screen Desktop

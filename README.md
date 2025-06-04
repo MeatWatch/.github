@@ -100,3 +100,23 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
 [REST API Documentation](#)
 
 ---
+## Screen
+
+<img src="https://github.com/user-attachments/assets/a0851af4-aff7-470a-a974-ba199798a0ae" alt="Screenshot 1" width="300"/>
+<img src="https://github.com/user-attachments/assets/59ae5b20-fbb3-4da6-b508-838820333d71" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/ac3af04d-3651-4011-8ade-29c393217cce" alt="Screenshot 3" width="300"/>
+<img src="https://github.com/user-attachments/assets/e7bd5e78-37b2-4529-b1aa-dfc797806f1a" alt="Screenshot 4" width="300"/>
+<img src="https://github.com/user-attachments/assets/248564b3-e307-4053-a132-ab7f4e6ba75d" alt="Screenshot 5" width="300"/>
+<img src="https://github.com/user-attachments/assets/3373642c-4b59-4909-8d05-21b96688c8e4" alt="Screenshot 6" width="300"/>
+<img src="https://github.com/user-attachments/assets/a86b205b-fa83-4b9c-83e6-ee2f4cb687a4" alt="Screenshot 7" width="300"/>
+<img src="https://github.com/user-attachments/assets/252ceb0d-d1cb-4290-a6ac-7d1fc6b16aa5" alt="Screenshot 8" width="300"/>
+<img src="https://github.com/user-attachments/assets/c9d85d1d-d5a4-4e99-bea0-59d75ed6fb10" alt="Screenshot 9" width="300"/>
+<img src="https://github.com/user-attachments/assets/8d0d5c6c-0d96-425e-afc2-73026787712e" alt="Screenshot 10" width="300"/>
+<img src="https://github.com/user-attachments/assets/675a177e-6973-4550-a95d-772ab8a79f8c" alt="Screenshot 11" width="300"/>
+<img src="https://github.com/user-attachments/assets/fe9b4a58-1cd5-4c76-b34a-ad923aa089b4" alt="Screenshot 12" width="300"/>
+<img src="https://github.com/user-attachments/assets/f7de0bbb-3e88-4176-804d-26ab2b90330f" alt="Screenshot 13" width="300"/>
+
+
+
+
+

@@ -81,6 +81,12 @@ MeatWatch: Deteksi Daging Cerdas untuk Kesehatan adalah aplikasi berbasis keseha
 https://drive.google.com/file/d/1exC8974D7tml0gRfxhwH58kKf5k2jEIJ/view
 
 ---
+
+##  Presentation video
+https://www.youtube.com/watch?v=Y6poF-t_KkY
+
+---
+
 ##  Link Website
 https://courageous-centaur-cbe411.netlify.app/
 
